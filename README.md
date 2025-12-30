@@ -95,7 +95,7 @@ If you find this repository useful, please consider starring it to support the w
 
 ## History
 
-- **Paper timeline (IEEE TIP)**  
+- **Paper timeline (IEEE Transactions on Image Processing)**  
   Received: 16 June 2025  
   Revised: 23 October 2025  
   Accepted: 11 December 2025  
