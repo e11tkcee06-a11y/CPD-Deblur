@@ -102,5 +102,6 @@ If you find this repository useful, please consider starring it to support the w
   Date of publication: 23 December 2025  
   Current version: 29 December 2025  
 
-p.s. Because the description and explanation of the sub-functions are not yet complete, we have initially released the .p file for readers' reference. 
-     We will complete the description and explanation of the sub-functions as soon as possible and gradually release the .m file for readers' reference.
+- **Release .m file of sub-functions**  
+  Release date: 08 January 2026
+
